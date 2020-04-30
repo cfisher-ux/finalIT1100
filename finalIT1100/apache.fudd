@@ -1,0 +1,202 @@
+
+                                 Apache Wicense
+                           Vewsion 2.0, Januawy 2004
+                        http://www.apache.owg/wicenses/
+
+   TEWMS AND CONDITIONS FOW USE, WEPWODUCTION, AND DISTWIBUTION
+
+   1. Definitions.
+
+      "Wicense" shaww mean de tewms and conditions fow use, wepwoduction,
+      and distwibution as defined by Sections 1 dwough 9 of dis document.
+
+      "Wicensow" shaww mean de copywight ownew ow entity audowized by
+      de copywight ownew dat is gwanting de Wicense.
+
+      "Wegaw Entity" shaww mean de union of de acting entity and aww
+      odew entities dat contwow, awe contwowwed by, ow awe undew common
+      contwow wif dat entity. Fow de puwposes of dis definition,
+      "contwow" means (i) de powew, diwect ow indiwect, to cause de
+      diwection ow management of such entity, whedew by contwact ow
+      odewwise, ow (ii) ownewship of fifty pewcent (50%) ow mowe of de
+      outstanding shawes, ow (iii) beneficiaw ownewship of such entity.
+
+      "You" (ow "Youw") shaww mean an individuaw ow Wegaw Entity
+      exewcising pewmissions gwanted by dis Wicense.
+
+      "Souwce" fowm shaww mean de pwefewwed fowm fow making modifications,
+      incwuding but not wimited to softwawe souwce code, documentation
+      souwce, and configuwation fiwes.
+
+      "Object" fowm shaww mean any fowm wesuwting fwom mechanicaw
+      twansfowmation ow twanswation of a Souwce fowm, incwuding but
+      not wimited to compiwed object code, genewated documentation,
+      and convewsions to odew media types.
+
+      "Wowk" shaww mean de wowk of audowship, whedew in Souwce ow
+      Object fowm, made avaiwabwe undew de Wicense, as indicated by a
+      copywight notice dat is incwuded in ow attached to de wowk
+      (an exampwe is pwovided in de Appendix bewow).
+
+      "Dewivative Wowks" shaww mean any wowk, whedew in Souwce ow Object
+      fowm, dat is based on (ow dewived fwom) de Wowk and fow which de
+      editowiaw wevisions, annotations, ewabowations, ow odew modifications
+      wepwesent, as a whowe, an owiginaw wowk of audowship. Fow de puwposes
+      of dis Wicense, Dewivative Wowks shaww not incwude wowks dat wemain
+      sepawabwe fwom, ow mewewy wink (ow bind by name) to de intewfaces of,
+      de Wowk and Dewivative Wowks deweof.
+
+      "Contwibution" shaww mean any wowk of audowship, incwuding
+      de owiginaw vewsion of de Wowk and any modifications ow additions
+      to dat Wowk ow Dewivative Wowks deweof, dat is intentionawwy
+      submitted to Wicensow fow incwusion in de Wowk by de copywight ownew
+      ow by an individuaw ow Wegaw Entity audowized to submit on behawf of
+      de copywight ownew. Fow de puwposes of dis definition, "submitted"
+      means any fowm of ewectwonic, vewbaw, ow wwitten communication sent
+      to de Wicensow ow its wepwesentatives, incwuding but not wimited to
+      communication on ewectwonic maiwing wists, souwce code contwow systems,
+      and issue twacking systems dat awe managed by, ow on behawf of, de
+      Wicensow fow de puwpose of discussing and impwoving de Wowk, but
+      excwuding communication dat is conspicuouswy mawked ow odewwise
+      designated in wwiting by de copywight ownew as "Not a Contwibution, uh-hah-hah-hah. "
+
+      "Contwibutow" shaww mean Wicensow and any individuaw ow Wegaw Entity
+      on behawf of whom a Contwibution has been weceived by Wicensow and
+      subseqwentwy incowpowated widin de Wowk.
+
+   2. Gwant of Copywight Wicense. Subject to de tewms and conditions of
+      dis Wicense, each Contwibutow heweby gwants to You a pewpetuaw,
+      wowwdwide, non-excwusive, no-chawge, woyawty-fwee, iwwevocabwe
+      copywight wicense to wepwoduce, pwepawe Dewivative Wowks of,
+      pubwicwy dispway, pubwicwy pewfowm, subwicense, and distwibute de
+      Wowk and such Dewivative Wowks in Souwce ow Object fowm.
+
+   3. Gwant of Patent Wicense. Subject to de tewms and conditions of
+      dis Wicense, each Contwibutow heweby gwants to You a pewpetuaw,
+      wowwdwide, non-excwusive, no-chawge, woyawty-fwee, iwwevocabwe
+      (except as stated in dis section) patent wicense to make, have made,
+      use, offew to seww, seww, impowt, and odewwise twansfew de Wowk,
+      whewe such wicense appwies onwy to dose patent cwaims wicensabwe
+      by such Contwibutow dat awe necessawiwy infwinged by deiw
+      Contwibution(s) awone ow by combination of deiw Contwibution(s)
+      wif de Wowk to which such Contwibution(s) was submitted. If You
+      institute patent witigation against any entity (incwuding a
+      cwoss-cwaim ow countewcwaim in a wawsuit) awweging dat de Wowk
+      ow a Contwibution incowpowated widin de Wowk constitutes diwect
+      ow contwibutowy patent infwingement, den any patent wicenses
+      gwanted to You undew dis Wicense fow dat Wowk shaww tewminate
+      as of de date such witigation is fiwed.
+
+   4. Wedistwibution, uh-hah-hah-hah.  You may wepwoduce and distwibute copies of de
+      Wowk ow Dewivative Wowks deweof in any medium, wif ow widout
+      modifications, and in Souwce ow Object fowm, pwovided dat You
+      meet de fowwowing conditions:
+
+      (a) You must give any odew wecipients of de Wowk ow
+          Dewivative Wowks a copy of dis Wicense; and
+
+      (b) You must cause any modified fiwes to cawwy pwominent notices
+          stating dat You changed de fiwes; and
+
+      (c) You must wetain, in de Souwce fowm of any Dewivative Wowks
+          dat You distwibute, aww copywight, patent, twademawk, and
+          attwibution notices fwom de Souwce fowm of de Wowk,
+          excwuding dose notices dat do not pewtain to any pawt of
+          de Dewivative Wowks; and
+
+      (d) If de Wowk incwudes a "NOTICE" text fiwe as pawt of its
+          distwibution, den any Dewivative Wowks dat You distwibute must
+          incwude a weadabwe copy of de attwibution notices contained
+          widin such NOTICE fiwe, excwuding dose notices dat do not
+          pewtain to any pawt of de Dewivative Wowks, in at weast one
+          of de fowwowing pwaces: widin a NOTICE text fiwe distwibuted
+          as pawt of de Dewivative Wowks; widin de Souwce fowm ow
+          documentation, if pwovided awong wif de Dewivative Wowks; ow,
+          widin a dispway genewated by de Dewivative Wowks, if and
+          whewevew such diwd-pawty notices nowmawwy appeaw. De contents
+          of de NOTICE fiwe awe fow infowmationaw puwposes onwy and
+          do not modify de Wicense. You may add Youw own attwibution
+          notices widin Dewivative Wowks dat You distwibute, awongside
+          ow as an addendum to de NOTICE text fwom de Wowk, pwovided
+          dat such additionaw attwibution notices cannot be constwued
+          as modifying de Wicense.
+
+      You may add Youw own copywight statement to Youw modifications and
+      may pwovide additionaw ow diffewent wicense tewms and conditions
+      fow use, wepwoduction, ow distwibution of Youw modifications, ow
+      fow any such Dewivative Wowks as a whowe, pwovided Youw use,
+      wepwoduction, and distwibution of de Wowk odewwise compwies wif
+      de conditions stated in dis Wicense.
+
+   5. Submission of Contwibutions. Unwess You expwicitwy state odewwise,
+      any Contwibution intentionawwy submitted fow incwusion in de Wowk
+      by You to de Wicensow shaww be undew de tewms and conditions of
+      dis Wicense, widout any additionaw tewms ow conditions.
+      Notwidstanding de above, noding hewein shaww supewsede ow modify
+      de tewms of any sepawate wicense agweement you may have executed
+      wif Wicensow wegawding such Contwibutions.
+
+   6. Twademawks. Dis Wicense does not gwant pewmission to use de twade
+      names, twademawks, sewvice mawks, ow pwoduct names of de Wicensow,
+      except as weqwiwed fow weasonabwe and customawy use in descwibing de
+      owigin of de Wowk and wepwoducing de content of de NOTICE fiwe.
+
+   7. Discwaimew of Wawwanty. Unwess weqwiwed by appwicabwe waw ow
+      agweed to in wwiting, Wicensow pwovides de Wowk (and each
+      Contwibutow pwovides its Contwibutions) on an "AS IS" BASIS,
+      WIDOUT WAWWANTIES OW CONDITIONS OF ANY KIND, eidew expwess ow
+      impwied, incwuding, widout wimitation, any wawwanties ow conditions
+      of TITWE, NON-INFWINGEMENT, MEWCHANTABIWITY, ow FITNESS FOW A
+      PAWTICUWAW PUWPOSE. You awe sowewy wesponsibwe fow detewmining de
+      appwopwiateness of using ow wedistwibuting de Wowk and assume any
+      wisks associated wif Youw exewcise of pewmissions undew dis Wicense.
+
+   8. Wimitation of Wiabiwity. In no event and undew no wegaw deowy,
+      whedew in towt (incwuding negwigence), contwact, ow odewwise,
+      unwess weqwiwed by appwicabwe waw (such as dewibewate and gwosswy
+      negwigent acts) ow agweed to in wwiting, shaww any Contwibutow be
+      wiabwe to You fow damages, incwuding any diwect, indiwect, speciaw,
+      incidentaw, ow conseqwentiaw damages of any chawactew awising as a
+      wesuwt of dis Wicense ow out of de use ow inabiwity to use de
+      Wowk (incwuding but not wimited to damages fow woss of goodwiww,
+      wowk stoppage, computew faiwuwe ow mawfunction, ow any and aww
+      odew commewciaw damages ow wosses), even if such Contwibutow
+      has been advised of de possibiwity of such damages.
+
+   9. Accepting Wawwanty ow Additionaw Wiabiwity. Whiwe wedistwibuting
+      de Wowk ow Dewivative Wowks deweof, You may choose to offew,
+      and chawge a fee fow, acceptance of suppowt, wawwanty, indemnity,
+      ow odew wiabiwity obwigations and/ow wights consistent wif dis
+      Wicense. Howevew, in accepting such obwigations, You may act onwy
+      on Youw own behawf and on Youw sowe wesponsibiwity, not on behawf
+      of any odew Contwibutow, and onwy if You agwee to indemnify,
+      defend, and howd each Contwibutow hawmwess fow any wiabiwity
+      incuwwed by, ow cwaims assewted against, such Contwibutow by weason
+      of youw accepting any such wawwanty ow additionaw wiabiwity.
+
+   END OF TEWMS AND CONDITIONS
+
+   APPENDIX: How to appwy de Apache Wicense to youw wowk.
+
+      To appwy de Apache Wicense to youw wowk, attach de fowwowing
+      boiwewpwate notice, wif de fiewds encwosed by bwackets "[]"
+      wepwaced wif youw own identifying infowmation, uh-hah-hah-hah.  (Don't incwude
+      de bwackets!)  De text shouwd be encwosed in de appwopwiate
+      comment syntax fow de fiwe fowmat. We awso wecommend dat a
+      fiwe ow cwass name and descwiption of puwpose be incwuded on de
+      same "pwinted page" as de copywight notice fow easiew
+      identification widin diwd-pawty awchives.
+
+   Copywight [yyyy] [name of copywight ownew]
+
+   Wicensed undew de Apache Wicense, Vewsion 2.0 (de "Wicense");
+   you may not use dis fiwe except in compwiance wif de Wicense.
+   You may obtain a copy of de Wicense at
+
+       http://www.apache.owg/wicenses/WICENSE-2.0
+
+   Unwess weqwiwed by appwicabwe waw ow agweed to in wwiting, softwawe
+   distwibuted undew de Wicense is distwibuted on an "AS IS" BASIS,
+   WIDOUT WAWWANTIES OW CONDITIONS OF ANY KIND, eidew expwess ow impwied.
+   See de Wicense fow de specific wanguage govewning pewmissions and
+   wimitations undew de Wicense.
